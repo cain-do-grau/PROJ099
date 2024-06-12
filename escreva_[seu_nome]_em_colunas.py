@@ -1,4 +1,4 @@
-var_name = input()
+var_name = input("digite seu nome : ")
 var_counter = -1
 var_yes = True
 var_destiny = -1
